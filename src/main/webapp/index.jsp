@@ -138,7 +138,7 @@
     </section>
 
     <section id="Phone">
-        <h2>Contact Us</h2>
+        <h2>Phone</h2>
         <p>If you have any questions, feel free to reach out to us:</p>
         <p>Email: info@afreedbablu.com</p>
         <p>Phone: +7988878</p>
