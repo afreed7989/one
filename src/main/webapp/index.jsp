@@ -155,7 +155,7 @@
     </section>
 
     <footer>
-        <p>&copy; 2023 Our College. All rights reserved.</p>
+        <p>&copy; 2025 Our school. All rights reserved.</p>
     </footer>
 
     <script>
