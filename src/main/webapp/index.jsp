@@ -141,7 +141,7 @@
         <h2>Contact Us</h2>
         <p>If you have any questions, feel free to reach out to us:</p>
         <p>Email: info@afreed.com</p>
-        <p>Phone: +123 456 7890</p>
+        <p>Phone: +7988878</p>
         <img src="https://via.placeholder.com/800x400" alt="Contact Image">
     </section>
 
