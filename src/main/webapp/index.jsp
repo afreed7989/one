@@ -93,7 +93,7 @@
 <body>
 
     <header>
-        <h1>Welcome to my office</h1>
+        <h1>Welcome to nexus</h1>
     </header>
 
     <nav>
